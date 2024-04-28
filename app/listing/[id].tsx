@@ -1,4 +1,4 @@
-import { useLocalSearchParams, useNavigation } from "expo-router";
+import { router, useLocalSearchParams, useNavigation } from "expo-router";
 import {
 	View,
 	Text,
@@ -65,7 +65,12 @@ const Page = () => {
 			),
 			headerLeft: () => (
 				<TouchableOpacity style={styles.roundButton} onPress={shareListing}>
-					<Ionicons name="chevron-back" size={24} color={"#000"} />
+					<Ionicons
+						name="chevron-back"
+						size={24}
+						color={"#000"}
+						onPress={() => router.back()}
+					/>
 				</TouchableOpacity>
 			),
 		});
