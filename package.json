@@ -32,7 +32,7 @@
     "react": "18.3.1",
     "react-dom": "18.3.1",
     "react-native": "0.75.2",
-    "react-native-gesture-handler": "~2.18.0",
+    "react-native-gesture-handler": "~2.19.0",
     "react-native-map-clustering": "^3.4.2",
     "react-native-maps": "1.18.0",
     "react-native-modern-datepicker": "^1.0.0-beta.91",
