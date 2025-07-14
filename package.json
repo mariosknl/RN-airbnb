@@ -37,7 +37,7 @@
     "react-native-maps": "1.24.3",
     "react-native-modern-datepicker": "^1.0.0-beta.91",
     "react-native-reanimated": "~3.18.0",
-    "react-native-safe-area-context": "5.5.0",
+    "react-native-safe-area-context": "5.5.2",
     "react-native-screens": "~4.11.0",
     "react-native-web": "~0.20.0"
   },
