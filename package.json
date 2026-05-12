@@ -29,8 +29,8 @@
     "expo-status-bar": "~3.0.0",
     "expo-system-ui": "~6.0.0",
     "expo-web-browser": "~15.0.0",
-    "react": "18.3.1",
-    "react-dom": "18.3.1",
+    "react": "19.2.6",
+    "react-dom": "19.2.6",
     "react-native-gesture-handler": "~2.30.0",
     "react-native": "0.77.0",
     "react-native-map-clustering": "^4.0.0",
@@ -43,11 +43,11 @@
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
-    "@types/react": "~18.3.0",
+    "@types/react": "~19.2.0",
     "@types/react-native-modern-datepicker": "^1.0.5",
     "jest": "^30.0.0",
     "jest-expo": "~54.0.0",
-    "react-test-renderer": "18.3.1",
+    "react-test-renderer": "19.2.6",
     "typescript": "^6.0.0"
   },
   "private": true
