@@ -42,7 +42,7 @@
     "react-native-web": "~0.21.0"
   },
   "devDependencies": {
-    "@babel/core": "^7.20.0",
+    "@babel/core": "^8.0.0",
     "@types/react": "~18.3.0",
     "@types/react-native-modern-datepicker": "^1.0.5",
     "jest": "^30.0.0",
